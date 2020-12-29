@@ -8,6 +8,7 @@ public class Driver {
         st.setCourse(cs);
 
         System.out.println(st.toString());
+        System.out.println("student course is : "+cs.toString());
 
 
     }
